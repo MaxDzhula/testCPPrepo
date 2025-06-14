@@ -478,6 +478,9 @@ void newFunction() {
 }
 
 
+void math(int a, int b) {
+	cout << a + b;
+}
 
 void main() {
 	cout << "Repo working!!!";
@@ -485,4 +488,5 @@ void main() {
 	cout << "We are connected!!!";
 
 	newFunction();
+	math(11, 11);
 }
