@@ -1,0 +1,5 @@
+Maxym: Attendance - 4, Absents: 2
+Bohdannna: Attendance - 5, Absents: 1
+Rostyslav: Attendance - 2, Absents: 4
+---------------------------------------------------------------------
+Average attedance: 61.1111 % 
