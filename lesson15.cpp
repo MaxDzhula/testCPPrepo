@@ -473,12 +473,16 @@ using namespace std;
 
 
 
-
+void newFunction() {
+	cout << "Wow. It is work now!!!";
+}
 
 
 
 void main() {
 	cout << "Repo working!!!";
-	cout << "Hello github!!!";
+
 	cout << "We are connected!!!";
+
+	newFunction();
 }
