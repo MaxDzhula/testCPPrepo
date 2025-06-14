@@ -482,6 +482,10 @@ void math(int a, int b) {
 	cout << a + b;
 }
 
+void power(int a, int b) {
+	cout << pow(a, b);
+}
+
 void main() {
 	cout << "Repo working!!!";
 
@@ -489,4 +493,6 @@ void main() {
 
 	newFunction();
 	math(11, 11);
+	power(3, 3);
 }
+
